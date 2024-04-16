@@ -5,6 +5,8 @@ VisualStudioVersion = 17.9.34714.143
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SQLDPresence", "SQLDPresence\SQLDPresence.csproj", "{5691F120-44FB-4091-810F-46FC34981BD8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MBDRPC", "..\..\..\source\repos\MbarkT3STO\MBDRPC\MBDRPC\MBDRPC.csproj", "{709BDB14-D8FF-4C31-B55C-52A73BEF4D62}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{5691F120-44FB-4091-810F-46FC34981BD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5691F120-44FB-4091-810F-46FC34981BD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5691F120-44FB-4091-810F-46FC34981BD8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{709BDB14-D8FF-4C31-B55C-52A73BEF4D62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{709BDB14-D8FF-4C31-B55C-52A73BEF4D62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{709BDB14-D8FF-4C31-B55C-52A73BEF4D62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{709BDB14-D8FF-4C31-B55C-52A73BEF4D62}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
